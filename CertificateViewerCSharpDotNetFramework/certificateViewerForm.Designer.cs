@@ -350,7 +350,6 @@
             // CertFileOpenFileDialog
             // 
             this.CertFileOpenFileDialog.Filter = "Certificate Files|*.cer; *.pfx|All files (*.*)|*.*";
-            this.CertFileOpenFileDialog.FileOk += new System.ComponentModel.CancelEventHandler(this.CertFileOpenFileDialog_FileOk);
             // 
             // loadButton
             // 
