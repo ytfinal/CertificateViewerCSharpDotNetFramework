@@ -302,7 +302,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.PFXPasswordTextBox.Location = new System.Drawing.Point(663, 76);
             this.PFXPasswordTextBox.Name = "PFXPasswordTextBox";
-            this.PFXPasswordTextBox.Size = new System.Drawing.Size(0, 20);
+            this.PFXPasswordTextBox.Size = new System.Drawing.Size(196, 20);
             this.PFXPasswordTextBox.TabIndex = 18;
             // 
             // SubjectTextBox
@@ -410,7 +410,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(976, 818);
+            this.ClientSize = new System.Drawing.Size(1172, 818);
             this.Controls.Add(this.CertificateToStringGroupBox);
             this.Controls.Add(this.RawDataLengthGroupBox);
             this.Controls.Add(this.PublicKeyFormatGroupBox);
